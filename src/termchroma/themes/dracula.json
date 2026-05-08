@@ -1,0 +1,28 @@
+{
+    "name": "Dracula",
+    "author": "Zeno Rocha",
+    "description": "A dark theme with purple accents, perfect for late-night coding",
+    "version": "1.0.0",
+    "tags": ["dark", "purple", "popular"],
+    "colors": {
+        "black": {"r": 33, "g": 34, "b": 44, "hex": "#21222c", "name": "black"},
+        "red": {"r": 255, "g": 85, "b": 85, "hex": "#ff5555", "name": "red"},
+        "green": {"r": 80, "g": 250, "b": 123, "hex": "#50fa7b", "name": "green"},
+        "yellow": {"r": 241, "g": 250, "b": 140, "hex": "#f1fa8c", "name": "yellow"},
+        "blue": {"r": 189, "g": 147, "b": 249, "hex": "#bd93f9", "name": "blue"},
+        "magenta": {"r": 255, "g": 121, "b": 198, "hex": "#ff79c6", "name": "magenta"},
+        "cyan": {"r": 139, "g": 233, "b": 253, "hex": "#8be9fd", "name": "cyan"},
+        "white": {"r": 248, "g": 248, "b": 242, "hex": "#f8f8f2", "name": "white"},
+        "bright_black": {"r": 98, "g": 114, "b": 164, "hex": "#6272a4", "name": "bright_black"},
+        "bright_red": {"r": 255, "g": 110, "b": 110, "hex": "#ff6e6e", "name": "bright_red"},
+        "bright_green": {"r": 105, "g": 255, "b": 148, "hex": "#69ff94", "name": "bright_green"},
+        "bright_yellow": {"r": 255, "g": 255, "b": 165, "hex": "#ffffa5", "name": "bright_yellow"},
+        "bright_blue": {"r": 214, "g": 172, "b": 255, "hex": "#d6acff", "name": "bright_blue"},
+        "bright_magenta": {"r": 255, "g": 146, "b": 223, "hex": "#ff92df", "name": "bright_magenta"},
+        "bright_cyan": {"r": 164, "g": 255, "b": 255, "hex": "#a4ffff", "name": "bright_cyan"},
+        "bright_white": {"r": 255, "g": 255, "b": 255, "hex": "#ffffff", "name": "bright_white"},
+        "background": {"r": 40, "g": 42, "b": 54, "hex": "#282a36", "name": "background"},
+        "foreground": {"r": 248, "g": 248, "b": 242, "hex": "#f8f8f2", "name": "foreground"},
+        "cursor": {"r": 248, "g": 248, "b": 242, "hex": "#f8f8f2", "name": "cursor"}
+    }
+}
